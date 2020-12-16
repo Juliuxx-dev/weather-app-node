@@ -1,5 +1,5 @@
 {
-  "name": "Weather with NodeJS",
+  "name": "weather-with-node",
   "version": "1.0.0",
   "description": "Show the weather from some city",
   "main": "app.js",
